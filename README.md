@@ -1,8 +1,5 @@
-#**************************************************#
-#   MultiMSOAR 2.0: An Accurate Tool to Identify   #
-#      Ortholog Groups among Multiple Genomes      #
-#                                                  #
-#**************************************************# 
+# MultiMSOAR 2.0: An Accurate Tool to Identify
+#  Ortholog Groups among Multiple Genomes 
 
 -------------------
 Usage
